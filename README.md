@@ -1,7 +1,9 @@
 ### **The Ultimate Guide to A/B Testing for Data-Driven Decisions**
 
 ---
-![image](https://github.com/user-attachments/assets/727940b9-3e08-485a-b551-978333cc762b)
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/a5041795-58ae-4e01-a638-d52266684c5c" alt="Resized Image" style="width:50%;"/>
+</div>
 
 ### **Introduction**
 
